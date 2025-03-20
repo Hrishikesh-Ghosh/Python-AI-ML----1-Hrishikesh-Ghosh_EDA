@@ -1,2 +1,2 @@
-I'm trying this thing known as Exploratory Data Analysis which is a basic building block of AI ML. Used Python. Ran Jupyter NB through VS Code. Took a dataset of various types of crimes and cleaned it (removed 
-duplicate values, filled in missing values etc). In AI ML cleaning the data is the first step before you feed it to an AI model.
+I'm trying to learn some AI ML and do some AI ML tasks and projects. This repo will contain AI ML tasks. I'll use Python through Jupyter Notebook. So far I've performed EDA (Exploratory Data Analysis) on a dataset.
+Every time I do a task or project, I'll upload it here and update this README to include what all I've done so far.
